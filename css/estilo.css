@@ -8,7 +8,7 @@ body {
 /* Início da Página Inicial */
 /* header */
 header {
-    background-color: rgb(11, 11, 104);
+    background-color: rgb(3, 3, 65);
     padding: 15px;
 }
 
@@ -22,7 +22,7 @@ nav a {
 }
 
 nav a:hover {
-    color: red;
+    color: rgb(200, 255, 0);
 }
 
 .logo {
@@ -55,10 +55,10 @@ a {
 }
 
 .ofertas {
-    width: 16%;
-    margin: 0 0 50px 104px;
+    width: 15%;
+    margin: 0 0 50px 103px;
     text-align: center;
-    font-size: 15px;
+    font-size: 10px;
 }
 
 
@@ -74,7 +74,7 @@ footer {
     padding: 20px;
     font-size: 20px;
     color: #f1f1f1;
-    background-color: rgb(11, 11, 104);
+    background-color: rgb(3, 3, 71);
 }
 
 footer a {
@@ -119,7 +119,7 @@ footer {
 @media (min-width: 700px) {
     .ofertas {
         float: left;
-        width: 16%;
+        width: 15%;
         margin: 0 0 50px 104px;
         text-align: center;
         border: 2px solid rgb(0, 0, 0);
@@ -129,7 +129,7 @@ footer {
 
     .logo{
         margin-left: 50;
-        margin: 0 0 0 96px;
+        margin: 0 0 0 95px;
         height: 50px;
         width: 150px;
     }
